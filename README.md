@@ -1,3 +1,4 @@
 # HospitalManagement
 Created Hospital Management System using Salesforce Cloud Force.com Platform
-![image](https://user-images.githubusercontent.com/79391691/189839626-6c80235f-c721-4b07-9a6f-aae3f2a126e7.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/79391691/189839770-7e7f9520-ec8a-4720-84e2-9f8e40f166b3.png)
+
